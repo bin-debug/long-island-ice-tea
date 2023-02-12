@@ -1,0 +1,15 @@
+﻿global using System.Text.Json;
+global using EasyVerifyModels;
+global using EasyVerifyModels.Bureauhouse.Request;
+global using EasyVerifyModels.Bureauhouse;
+global using BureauhouseApi.Services;
+global using Microsoft.Extensions.Options;
+global using Microsoft.AspNetCore.Mvc;
+global using Couchbase;
+global using Couchbase.KeyValue;
+global using Couchbase.Extensions.DependencyInjection;
+global using Elastic.Clients.Elasticsearch;
+global using Elastic.Transport;
+global using Microsoft.IdentityModel.Tokens;
+global using Microsoft.IdentityModel.Logging;
+global using System.Security.Claims;
