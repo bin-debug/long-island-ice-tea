@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rmSe2Z9sOktkHFSVFAmOlp92OmOezQedw6ad515e85w=",
+  "Source": "EasyVerifyAuthenticationApi",
+  "BasePath": "_content/EasyVerifyAuthenticationApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

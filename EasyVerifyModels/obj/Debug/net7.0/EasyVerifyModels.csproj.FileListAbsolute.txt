@@ -1,0 +1,12 @@
+C:\Users\God\source\repos\EasyVerify\EasyVerifyModels\bin\Debug\net7.0\EasyVerifyModels.deps.json
+C:\Users\God\source\repos\EasyVerify\EasyVerifyModels\bin\Debug\net7.0\EasyVerifyModels.dll
+C:\Users\God\source\repos\EasyVerify\EasyVerifyModels\bin\Debug\net7.0\EasyVerifyModels.pdb
+C:\Users\God\source\repos\EasyVerify\EasyVerifyModels\obj\Debug\net7.0\EasyVerifyModels.csproj.AssemblyReference.cache
+C:\Users\God\source\repos\EasyVerify\EasyVerifyModels\obj\Debug\net7.0\EasyVerifyModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\God\source\repos\EasyVerify\EasyVerifyModels\obj\Debug\net7.0\EasyVerifyModels.AssemblyInfoInputs.cache
+C:\Users\God\source\repos\EasyVerify\EasyVerifyModels\obj\Debug\net7.0\EasyVerifyModels.AssemblyInfo.cs
+C:\Users\God\source\repos\EasyVerify\EasyVerifyModels\obj\Debug\net7.0\EasyVerifyModels.csproj.CoreCompileInputs.cache
+C:\Users\God\source\repos\EasyVerify\EasyVerifyModels\obj\Debug\net7.0\EasyVerifyModels.dll
+C:\Users\God\source\repos\EasyVerify\EasyVerifyModels\obj\Debug\net7.0\refint\EasyVerifyModels.dll
+C:\Users\God\source\repos\EasyVerify\EasyVerifyModels\obj\Debug\net7.0\EasyVerifyModels.pdb
+C:\Users\God\source\repos\EasyVerify\EasyVerifyModels\obj\Debug\net7.0\ref\EasyVerifyModels.dll
